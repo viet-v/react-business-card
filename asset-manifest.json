@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-business-card/static/css/main.e27decdb.css",
+    "main.js": "/react-business-card/static/js/main.db6807af.js",
+    "index.html": "/react-business-card/index.html",
+    "main.e27decdb.css.map": "/react-business-card/static/css/main.e27decdb.css.map",
+    "main.db6807af.js.map": "/react-business-card/static/js/main.db6807af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e27decdb.css",
+    "static/js/main.db6807af.js"
+  ]
+}
